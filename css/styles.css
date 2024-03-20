@@ -1,15 +1,20 @@
+.body-style {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
 .header-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2e2f42;
+    color:  #4d5ae5;
     text-decoration: none;
 }
 .header-logo-web {
-    color: #4d5ae5;
+    color: #2e2f42;
 }
 .ul-nav {
     list-style: none;
@@ -23,6 +28,12 @@ letter-spacing: 0.02em;
 color: #2e2f42;
 text-decoration: none;
 }
+.nav-list:hover {
+    color: #404bbf;
+}
+.nav-list:focus {color: #404bbf;
+}
+
 .ul-address {
     list-style: none;
 }
