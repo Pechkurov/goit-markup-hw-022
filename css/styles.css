@@ -105,7 +105,8 @@ text-transform: capitalize;
 background-color: #FFFFFF;
 }
 .foto {background-color: #FFFFFF;}
-.team-foto {
+.team-info {background-color: #FFFFFF;}
+.team-list {
     list-style: none;
     background-color: #FFFFFF;
 }
