@@ -49,6 +49,7 @@ font-style: normal;
 }
 .nav-address:hover {color: #404bbf;}
 .nav-address:focus {color: #404bbf;}
+.section1 {background-color: #2e2f42;}
 .top-title {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
@@ -66,8 +67,11 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
-background-color: #4d5ae5;;
+background-color: #4d5ae5;
+cursor: pointer;
 }
+.order-buttom:hover {background-color: #404BBF;}
+.order-buttom:focus {background-color:#404BBF;}
 .accomplishments-list {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -100,8 +104,10 @@ color: #2e2f42;
 text-transform: capitalize;
 background-color: #F4F4FD;
 }
+.foto {background-color: #F4F4FD}
 .team-foto {
     list-style: none;
+    background-color: #FFFFFF;
 }
 .team-name {
     font-family: "Roboto", sans-serif;
@@ -172,4 +178,7 @@ color: #434455;
 }
 .portfolio-foto {
     list-style: none;
+}
+.footer {
+    background-color: #2e2f42;
 }
